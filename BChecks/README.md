@@ -5,3 +5,8 @@ Following BChecks were written by Accenture:
 |CVE|CVSSv3.1 base score|Vulnerability|Technology|Version|Name|Reference|BCheck|
 |-|-|-|-|-|-|-|-|
 |CVE-2011-3192|7.5|Denial of Service (DoS)|Apache HTTPD|2.0 - all versions prior to 2.2.20 and prior to 2.0.65|Range header DoS (aka. Apache Killer)|https://httpd.apache.org/security/CVE-2011-3192.txt|[here](CVE-2011-3192_Apache_DoS.bcheck)|
+
+Here are others which do not have CVE:
+|CVSSv3.1 base score|Vulnerability|Technology|Name|Reference|BCheck|
+|-|-|-|-|-|-|
+|9.9|Remote Code Execution (RCE)|Perl|Perl Jam 2|https://www.blackhat.com/docs/asia-16/materials/asia-16-Rubin-The-Perl-Jam-2-The-Camel-Strikes-Back.pdf|[here](Perl_Jam_2-RCE.bcheck)|
