@@ -10,3 +10,4 @@ Here are others which do not have CVE:
 |CVSSv3.1 base score|Vulnerability|Technology|Name|Reference|BCheck|
 |-|-|-|-|-|-|
 |9.9|Remote Code Execution (RCE)|Perl|Perl Jam 2|https://www.blackhat.com/docs/asia-16/materials/asia-16-Rubin-The-Perl-Jam-2-The-Camel-Strikes-Back.pdf|[here](Perl_Jam_2-RCE.bcheck)|
+|0.0|Potential RCE or file rewrite|-|Interesting File Error in the Response|-|[here](Interesting_file_error_in_the_response.bcheck)|
