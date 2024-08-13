@@ -5,6 +5,7 @@ Following BChecks were written by Accenture:
 |CVE|CVSSv3.1 base score|Vulnerability|Technology|Version|Name|Reference|BCheck|
 |-|-|-|-|-|-|-|-|
 |CVE-2011-3192|7.5|Denial of Service (DoS)|Apache HTTPD|2.0 - all versions prior to 2.2.20 and prior to 2.0.65|Range header DoS (aka. Apache Killer)|https://httpd.apache.org/security/CVE-2011-3192.txt|[here](CVE-2011-3192_Apache_DoS.bcheck)|
+|CVE-2018-15133|8.1|Remote Code Execution (RCE) via deserialization|PHP Laravel|all versions prior to 5.5.40 and 5.6.x through 5.6.29|Laravel RCE|https://packetstormsecurity.com/files/153641/PHP-Laravel-Framework-Token-Unserialize-Remote-Command-Execution.html|[here](CVE-2018-15133-Laravel_RCE.bcheck)|
 
 Here are others which do not have CVE:
 |CVSSv3.1 base score|Vulnerability|Technology|Name|Reference|BCheck|
