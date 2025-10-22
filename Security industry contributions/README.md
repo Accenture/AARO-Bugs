@@ -18,10 +18,10 @@ Diana Prusova of Accenture has significantly helped in creating CVSS4. Her attri
 Accenture has contributed significantly with our dataset to [OWASP Top 10 2025](https://www.owasptopten.org/thedata). Note that at the moment of writing it is not yet published.
 
 # Tools published
-- [evil_update](https://github.com/Accenture/evil_update)
+- [evil_update](https://github.com/Accenture/evil_update): Proof-of-concept code for using Raspberry Pi/USB Armory as an attack platform for TOC-TOU vulnerabilities.
 - [protobuf-finder](https://github.com/Accenture/protobuf-finder): IDA Pro plugin for reconstructing original .proto files from binary.
-[VulFi](https://github.com/Accenture/VulFi): IDA Pro plugin for query based searching within the binary useful mainly for vulnerability research.
-[FirmLoader](https://github.com/Accenture/FirmLoader)
-[Condstanta](https://github.com/Accenture/Condstanta)
-[BinaryNinja_Helpers](https://github.com/Accenture/BinaryNinja_Helpers)
+- [VulFi](https://github.com/Accenture/VulFi): IDA Pro plugin for query based searching within the binary useful mainly for vulnerability research.
+- [FirmLoader](https://github.com/Accenture/FirmLoader): An IDA plugin that allows to automatically identify parts of the memory for the firmware images extracted from microcontrollers.
+- [Condstanta](https://github.com/Accenture/Condstanta) is an IDA plugin that allows searching for constant values that are used in conditional statements.
+- [BinaryNinja_Helpers](https://github.com/Accenture/BinaryNinja_Helpers): Collection of scripts to automate tasks in Binary Ninja
 - Burp Suite contributions on the official [PortSwigger Git](https://github.com/search?q=org%3APortSwigger%20accenture&type=code) repository
