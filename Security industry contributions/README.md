@@ -25,3 +25,6 @@ Accenture has contributed significantly (one of only 12 named companies) with ou
 - [Condstanta](https://github.com/Accenture/Condstanta) is an IDA plugin that allows searching for constant values that are used in conditional statements.
 - [BinaryNinja_Helpers](https://github.com/Accenture/BinaryNinja_Helpers): Collection of scripts to automate tasks in Binary Ninja
 - Burp Suite contributions on the official [PortSwigger Git](https://github.com/search?q=org%3APortSwigger%20accenture&type=code) repository
+
+# Assistance with final thesis for university students
+ - [Dynamic Application Security Testing Benchmark](https://dspace.cvut.cz/handle/10467/121027) by Michal Šimeček; February 2025
