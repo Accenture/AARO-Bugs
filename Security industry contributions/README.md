@@ -28,3 +28,6 @@ Accenture has contributed significantly (one of only 12 named companies) with ou
 
 # Assistance with final thesis for university students
  - [Dynamic Application Security Testing Benchmark](https://dspace.cvut.cz/handle/10467/121027) by Michal Šimeček; February 2025
+
+# Cyber Security Crash Course
+During 2021-2024, Accenture Security teams in Prague have created multiple free Offensive and Defensive Security courses, meant for university students. They covered not only theory, but also practical labs and home assignments. Although the website is now off, at least some information is still available using Web archive from [2021](https://web.archive.org/web/20210918150054/https://www.accenture.com/cz-cs/careers/event/accenture-akademie), [2022](https://web.archive.org/web/20220930131313/https://www.accenture.com/cz-en/careers/event/security-offensive-crash-course) and [2023](https://web.archive.org/web/20230320132124/https://www.accenture.com/cz-en/careers/event/security-offensive-crash-course).
