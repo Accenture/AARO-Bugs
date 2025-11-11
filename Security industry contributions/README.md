@@ -15,7 +15,7 @@ Accenture has strict internal guidelines to report discovered 0-day vulnerabilit
 Diana Prusova of Accenture has significantly helped in creating CVSS4. Her attribution is listed on [Appendix A - Acknowledgments](https://www.first.org/cvss/specification-document).
 
 # OWASP Top 10 2025
-Accenture has contributed significantly with our dataset to [OWASP Top 10 2025](https://www.owasptopten.org/thedata). Note that at the moment of writing it is not yet published.
+Accenture has contributed significantly (one of only 12 named companies) with our dataset to [OWASP Top 10 2025](https://www.owasptopten.org/thedata). Note that at the moment of writing, following temporary link works to [OWASP Top 10 2025 Introduction](https://owasp.org/Top10/2025/0x00_2025-Introduction/).
 
 # Tools published
 - [evil_update](https://github.com/Accenture/evil_update): Proof-of-concept code for using Raspberry Pi/USB Armory as an attack platform for TOC-TOU vulnerabilities.
