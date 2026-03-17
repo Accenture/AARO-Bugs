@@ -26,6 +26,9 @@ Accenture has contributed significantly (one of only 12 named companies) with ou
 - [BinaryNinja_Helpers](https://github.com/Accenture/BinaryNinja_Helpers): Collection of scripts to automate tasks in Binary Ninja
 - Burp Suite contributions on the official [PortSwigger Git](https://github.com/search?q=org%3APortSwigger%20accenture&type=code) repository
 
+# Publications
+- [Breaking Trust Boundaries: BlazeDS AMF Deserialization and Java RMI Abuse](https://packetstorm.news/files/id/214291/) by Shravan Joshi, Prasenjit Kanti Paul, Kamaljeet Kumar and Akash Hansda; January 2026
+
 # Assistance with final thesis for university students
  - [Dynamic Application Security Testing Benchmark](https://dspace.cvut.cz/handle/10467/121027) by Michal Šimeček; February 2025
 
