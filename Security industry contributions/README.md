@@ -24,7 +24,8 @@ Accenture has contributed significantly (one of only 12 named companies) with ou
 - [FirmLoader](https://github.com/Accenture/FirmLoader): An IDA plugin that allows to automatically identify parts of the memory for the firmware images extracted from microcontrollers.
 - [Condstanta](https://github.com/Accenture/Condstanta) is an IDA plugin that allows searching for constant values that are used in conditional statements.
 - [BinaryNinja_Helpers](https://github.com/Accenture/BinaryNinja_Helpers): Collection of scripts to automate tasks in Binary Ninja
-- Burp Suite contributions on the official [PortSwigger Git](https://github.com/search?q=org%3APortSwigger%20accenture&type=code) repository
+- Burp Suite contributions on the official [PortSwigger Git](https://github.com/search?q=org%3APortSwigger+%22%40+accenture%22&type=code) repository
+- ChargeSploit: a custom hardware and software toolkit for complex security testing of EV charging systems. More information will be published after BlackHat US 2026.
 
 # Assistance with final thesis for university students
  - [Dynamic Application Security Testing Benchmark](https://dspace.cvut.cz/handle/10467/121027) by Michal Šimeček; February 2025
