@@ -27,6 +27,9 @@ Accenture has contributed significantly (one of only 12 named companies) with ou
 - Burp Suite contributions on the official [PortSwigger Git](https://github.com/search?q=org%3APortSwigger+%22%40+accenture%22&type=code) repository
 - ChargeSploit: a custom hardware and software toolkit for complex security testing of EV charging systems. More information will be published after BlackHat US 2026.
 
+# Publications
+- [Breaking Trust Boundaries: BlazeDS AMF Deserialization and Java RMI Abuse](https://packetstorm.news/files/id/214291/) by Shravan Joshi, Prasenjit Kanti Paul, Kamaljeet Kumar and Akash Hansda; January 2026
+
 # Assistance with final thesis for university students
  - [Dynamic Application Security Testing Benchmark](https://dspace.cvut.cz/handle/10467/121027) by Michal Šimeček; February 2025
 
