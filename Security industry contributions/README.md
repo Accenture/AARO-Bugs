@@ -5,6 +5,7 @@ This repository lists and references Accenture contributions to the security com
 Accenture has strict internal guidelines to report discovered 0-day vulnerabilities to vendors. Every time we are legally allowed we proceed with it. The up-do-date list can be found on [List of CVEs](/AARO-CVE-List.md). At the moment, we track over over 300 attributed vulnerabilities to Accenture personal.
 
 # Public talks
+- 2026 August - DEF CON 34 - [High Voltage Heist: Turning Your EV into my Power Bank](https://defcon.org/html/defcon-34/dc-34-speakers.html#content_66650) by Stepan Konicek, Fabien Guillebot.
 - 2025 March - SCaLE 22x - [Securing Web Applications Against OWASP Top 10 Threats in AWS Cloud](https://www.socallinuxexpo.org/scale/22x/presentations/securing-web-applications-against-owasp-top-10-threats-aws-cloud/index.html) by Murat Aydemir.
 - 2025 March - RE//verse 2025: [Reverse engineering AUTOSAR Classic firmware](https://re-verse.sessionize.com/session/759122)  by Martin Petran; [YouTube](https://www.youtube.com/watch?v=JjYzkVK9dks)
 - 2024 November- [Architecting Secure and Resilient Serverless Microservices for RESTful APIs on AWS](https://bsideschicago.org/schedule-24/) by Murat Aydemir.
@@ -25,7 +26,7 @@ Accenture has contributed significantly (one of only 12 named companies) with ou
 - [Condstanta](https://github.com/Accenture/Condstanta) is an IDA plugin that allows searching for constant values that are used in conditional statements.
 - [BinaryNinja_Helpers](https://github.com/Accenture/BinaryNinja_Helpers): Collection of scripts to automate tasks in Binary Ninja
 - Burp Suite contributions on the official [PortSwigger Git](https://github.com/search?q=org%3APortSwigger+%22%40+accenture%22&type=code) repository
-- ChargeSploit: a custom hardware and software toolkit for complex security testing of EV charging systems. More information will be published after BlackHat US 2026.
+- [ChargeSploit](https://github.com/konicst1/ChargeSploit): a security testing tool for the V2G communication stack used in EV charging. It implements ISO 15118-2 and DIN SPEC 70121 at both EVCC and SECC side, so you can watch every message on the wire and swap in your own behaviour at any step of the communication.
 
 # Publications
 - [Breaking Trust Boundaries: BlazeDS AMF Deserialization and Java RMI Abuse](https://packetstorm.news/files/id/214291/) by Shravan Joshi, Prasenjit Kanti Paul, Kamaljeet Kumar and Akash Hansda; January 2026
